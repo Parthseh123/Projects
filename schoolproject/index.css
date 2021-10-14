@@ -1,0 +1,327 @@
+*{
+  margin-top: 0%;
+  
+}
+body{
+    width:100%;
+    height:100%;
+    animation: ani1 10s infinite;
+}
+.tt{
+ text-align: center;
+}
+.insheets{
+    text-align: center;
+    
+}
+.insheets iframe caption{
+    display: flex;
+    text-align: center;
+    justify-content: space-between;
+}
+
+.comppdf1{
+    display: flex;
+    justify-content: space-around;
+}
+.comppdf2{
+    display: flex;
+    justify-content: space-around;
+}
+
+.mathpdf1{
+    display: flex;
+    justify-content: space-around;
+}
+.mathpdf2{
+    display: flex;
+    justify-content: space-around;
+}
+
+.engpdf1{
+    display: flex;
+    justify-content: space-around;
+}
+.engpdf2{
+    display: flex;
+    justify-content: space-around;
+}
+
+.hindipdf1{
+    display: flex;
+    justify-content: space-around;
+}
+.hindipdf2{
+    display: flex;
+    justify-content: space-around;
+}
+
+.sciencepdf1{
+    display: flex;
+    justify-content: space-around;
+}
+.sciencepdf2{
+    display: flex;
+    justify-content: space-around;
+}
+
+.sscpdf1{
+    display: flex;
+    justify-content: space-around;
+}
+.sscpdf2{
+    display: flex;
+    justify-content: space-around;
+}
+
+.frenchpdf1{
+    display: flex;
+    justify-content: space-around;
+}
+.frenchpdf2{
+    display: flex;
+    justify-content: space-around;
+}
+
+.sanskritpdf1{
+    display: flex;
+    justify-content: space-around;
+}
+.sanskritpdf2{
+    display: flex;
+    justify-content: space-around;
+}
+
+.subbar{
+    float: left;
+    text-align: left;
+}
+.subbar ul li a{
+    color:black;
+    font-size: 20px;
+    text-decoration: none;
+}
+
+.subbar ul {
+    color:black;
+    list-style: none;
+}
+
+.compch1{
+    border: black 10px solid ;
+}
+
+.compch2{
+    border: black 10px solid ;
+}
+.compch3{
+    border: black 10px solid ;
+}
+
+.compch4{
+    border: black 10px solid ;
+}
+.compch5{
+    border: black 10px solid ;
+}
+.compch6{
+    border: black 10px solid ;
+}
+
+.mathch1{
+    border: black 10px solid ;
+}
+
+.mathch2{
+    border: black 10px solid ;
+}
+.mathch3{
+    border: black 10px solid ;
+}
+
+.mathch4{
+    border: black 10px solid ;
+}
+.mathch5{
+    border: black 10px solid ;
+}
+.mathch6{
+    border: black 10px solid ;
+}
+
+.engch1{
+    border: black 10px solid ;
+}
+
+.engch2{
+    border: black 10px solid ;
+}
+.engch3{
+    border: black 10px solid ;
+}
+
+.engch4{
+    border: black 10px solid ;
+}
+.engch5{
+    border: black 10px solid ;
+}
+.engch6{
+    border: black 10px solid ;
+}
+
+.hindich1{
+    border: black 10px solid ;
+}
+
+.hindich2{
+    border: black 10px solid ;
+}
+.hindich3{
+    border: black 10px solid ;
+}
+
+.hindich4{
+    border: black 10px solid ;
+}
+.hindich5{
+    border: black 10px solid ;
+}
+.hindich6{
+    border: black 10px solid ;
+}
+
+.sciencech1{
+    border: black 10px solid ;
+}
+
+.sciencech2{
+    border: black 10px solid ;
+}
+.sciencech3{
+    border: black 10px solid ;
+}
+
+.sciencech4{
+    border: black 10px solid ;
+}
+.sciencech5{
+    border: black 10px solid ;
+}
+.sciencech6{
+    border: black 10px solid ;
+}
+
+.sscch1{
+    border: black 10px solid ;
+}
+
+.sscch2{
+    border: black 10px solid ;
+}
+.sscch3{
+    border: black 10px solid ;
+}
+
+.sscch4{
+    border: black 10px solid ;
+}
+.sscch5{
+    border: black 10px solid ;
+}
+.sscch6{
+    border: black 10px solid ;
+}
+
+.frenchch1{
+    border: black 10px solid ;
+}
+
+.frenchch2{
+    border: black 10px solid ;
+}
+.frenchch3{
+    border: black 10px solid ;
+}
+
+.frenchch4{
+    border: black 10px solid ;
+}
+.frenchch5{
+    border: black 10px solid ;
+}
+.frenchch6{
+    border: black 10px solid ;
+}
+
+.sanskitch1{
+    border: black 10px solid ;
+}
+
+.sanskitch2{
+    border: black 10px solid ;
+}
+.sanskitch3{
+    border: black 10px solid ;
+}
+
+.sanskitch4{
+    border: black 10px solid ;
+}
+.sanskitch5{
+    border: black 10px solid ;
+}
+.sanskitch6{
+    border: black 10px solid ;
+}
+
+@keyframes ani1 {
+    0%{
+        background-color:white;
+    }
+    5%{
+        background-color:rgb(255, 75, 75);
+    }
+    10%{
+        background-color:rgb(255, 25, 25);
+    }
+    15%{
+        background-color:rgb(252, 106, 39);
+    }
+    20%{
+        background-color:rgb(255, 133, 34);
+    }
+    25%{
+        background-color:rgb(253, 255, 163);
+    }
+    30%{
+        background-color:rgb(53, 226, 0);
+    }
+    35%{
+        background-color:rgb(75, 255, 201);
+    }
+    40%{
+        background-color:rgb(9, 247, 247);
+    }
+    45%{
+        background-color:rgb(75, 147, 255);
+    }
+    50%{
+        background-color:rgb(86, 69, 243);
+    }
+    55%{
+        background-color:rgb(174, 75, 255);
+    }
+    60%{
+        background-color:rgb(255, 75, 216);
+    }
+    70%{
+        background-color:rgb(255, 75, 135);
+    }
+    80%{
+        background-color:rgb(255, 75, 75);
+    }
+    100%{
+        background-color: white;
+    }
+}
